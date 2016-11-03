@@ -1,14 +1,12 @@
 # Whatsie
 
-[![OS X build](https://travis-ci.org/Aluxian/Whatsie.svg?branch=staging)](https://travis-ci.org/Aluxian/Whatsie)
-[![Windows build](https://ci.appveyor.com/api/projects/status/6vborc92ob25kqe0/branch/staging?svg=true)](https://ci.appveyor.com/project/Aluxian/Whatsie)
 [![Linux builds](https://circleci.com/gh/Aluxian/Whatsie/tree/staging.svg?style=shield)](https://circleci.com/gh/Aluxian/Whatsie)
 [![Downloads total](https://updates.whatsie.chat/badge/downloads.svg)](https://updates.whatsie.chat/stats)
 [![Services status](https://img.shields.io/badge/services-status-blue.svg)](https://status.whatsie.chat/)
 [![HuBoard task board](https://img.shields.io/badge/hu-board-7965cc.svg)](https://huboard.com/Aluxian/Whatsie)
 [![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/Whatsie)
 
-A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
+A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
 
 Whatsie is still in beta, so some features might not work properly. Bug reports and feature suggestions are welcome. Please check for updates here regularly in case the update process breaks and your installed version can't update by itself.
 
@@ -34,26 +32,6 @@ Whatsie is still in beta, so some features might not work properly. Bug reports 
 - **stable:** these releases are more thoroughly tested; they receive new features later, but there's a lower chance that things will go wrong
 
 If you want to help me make Whatsie better, I recommend `dev` or `beta`. Let's go!
-
-### OS X
-
-1. Download [whatsie-x.x.x-osx.dmg][LR] or [whatsie-x.x.x-osx.zip][LR]
-2. Open or unzip the file and drag the app into the `Applications` folder
-3. Done! The app will update automatically
-
-### Windows
-
-*Installer (recommended):*
-
-1. Download [whatsie-x.x.x-win32-setup.exe][LR]
-2. Run the installer, wait until it finishes
-3. Done! The app will update automatically
-
-*Portable:*
-
-1. Download [whatsie-x.x.x-win32-portable.zip][LR]
-2. Extract the zip wherever you want (e.g. a flash drive) and run the app from there
-3. Done! The app will NOT update automatically, but you can still check for updates
 
 ### Linux
 
